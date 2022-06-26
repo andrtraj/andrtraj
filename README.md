@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Response Machine Learning Model](https://github.com/andrtraj/CustomerCampaignML)
 
-- 🌱 I’m currently learning **Python for data scientists (pandas, matplotlib, scikitlearn)**
+- 🌱 I’m currently learning **Python for data scientists (pandas, matplotlib, scikitlearn) on Datacamp**
 
 - 👯 I’m looking to collaborate on **Sports Analytics projects**
 
